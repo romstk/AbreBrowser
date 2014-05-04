@@ -39,7 +39,7 @@
                 android:id="@+id/btOk"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Abrir o Browser" />
+                android:text="Abrir no Browser" />
 
             <TextView
                 android:id="@+id/textView2"
